@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Mikhail 👋
 
-<!--
-**mkuzhvv/mkuzhvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-разработчик на Java + Spring, 2-3 курс НИТУ МИСИС.
 
-Here are some ideas to get you started:
+### Stack
+- **Java 17/21** · Spring Boot, MVC, Data JPA, Hibernate
+- **PostgreSQL** (Flyway, Liquibase) · **Redis** · **Kafka**
+- **REST API** · **gRPC**
+- **Архитектура:** микросервисы, распределённые системы, отказоустойчивость (at-least-once, ретраи), кэширование
+  
+### BigData
+- **YTsaurus** (очереди, статические таблицы, витрины) · **SPYT** · **Uber H3**
+- Практика на open-source проекте: стрим-обработка ~60 событий/сек, агрегации в H3-гексагоны
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Флагман
+🗺 **WikiPulse** — живая карта правок Википедии на YTsaurus (ШБР Яндекса 2026): бэкенд живой карты, оптимизация «свёртка H3-ключей вверх», дашборд поверх витрин.
+
+### Contacts
+✉️ mkuzhanovv@gmail.com · ✈️ @sgrgt0
